@@ -203,11 +203,44 @@ footer div a:hover{
         flex-wrap:wrap;
         z-index:1;
     }
+
+    .intro img{
+        width:200px;
+        height:200px;
+        border-radius:100px;
+        box-shadow: 50px 50px 40px #0000;
+    }
     .intro p{
-        margin-top: 50px;
+        margin-top:50px;
+        font-size: 1.5rem;
+        font-weight:300;
     }
 
     .contact{
-        display:none;
+        position:absolute;
+        top:42rem;
+        right:50%;
+        transform:translate(58%);
+    }
+
+    footer h3{
+        font-size:0.7rem;
+        font-weight:200;
+    }
+    footer ul{
+        width: 90px;
+        padding:0;
+    }
+    footer ul li{
+        margin-right:10px;
+        display:inline-block;
+    }
+    footer ul li a svg{
+        width:16px;
+        height:16px;
+    }
+    footer div svg{
+        width:30px;
+        height:30px;
     }
 }
