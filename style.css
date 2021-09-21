@@ -165,7 +165,7 @@ footer div a:hover{
     nav .menu-btn{
         position:absolute;
         top: 7px;
-        right:40px;
+        right:20px;
         display:block;
         float:right;
     }
@@ -206,12 +206,13 @@ footer div a:hover{
 
     .intro img{
         width:200px;
+        margin:auto;
         height:200px;
         border-radius:100px;
         box-shadow: 50px 50px 40px #0000;
     }
     .intro p{
-        margin-top:50px;
+        margin:60px auto 0 15px;
         font-size: 1.5rem;
         font-weight:300;
     }
