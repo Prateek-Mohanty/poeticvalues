@@ -179,7 +179,9 @@ footer div a:hover{
         text-align:center;
         transition:all 0.3s ease 0s;
     }
-
+    .main{
+        height:100vh;
+    }
     #click:checked ~ ul{
         left:0%;
     }
