@@ -1,0 +1,2 @@
+# poeticvalues
+static webpage
