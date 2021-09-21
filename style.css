@@ -227,7 +227,9 @@ footer div a:hover{
         right:50%;
         transform:translate(58%);
     }
-
+    footer{
+        height:80px
+    }
     footer h3{
         font-size:0.7rem;
         font-weight:200;
